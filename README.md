@@ -1,5 +1,6 @@
 # Counter
 This is a android widget for counter.
+![alt text](https://github.com/bhavin121/Counter/blob/master/Screenshot_2021-05-09-19-11-16-291_com.example.counterexp.png?raw=true)
 
 ## How to use
 ### Step 1. 
