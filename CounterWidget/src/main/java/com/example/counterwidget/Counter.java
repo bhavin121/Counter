@@ -15,6 +15,10 @@ import android.view.View;
 import android.widget.Toast;
 import androidx.annotation.Nullable;
 
+/**
+ * It is an custom view
+ * in Test branch
+ */
 public class Counter extends View {
 
     private OnChangeListener onChangeListener;
