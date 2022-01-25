@@ -17,7 +17,7 @@ import androidx.annotation.Nullable;
 
 /**
  * It is an custom view
- * in Test branch
+ * in branch2
  */
 public class Counter extends View {
 
